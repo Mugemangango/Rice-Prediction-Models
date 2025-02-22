@@ -1,0 +1,417 @@
+Sector_id,DISTR,SECT_NAME,SOIL_DEPTH,SOIL_TEXTU
+4101,RULINDO,Base,<0.5m,>35% Clay
+3401,NYABIHU,Bigogwe,0.5 - 1.0m,20 - 35% clay
+3201,RUTSIRO,Boneza,0.5 - 1.0m,>35% Clay
+3601,RUSIZI,Bugarama,>1.0m,>35% Clay
+3301,RUBAVU,Bugeshi,0.5 - 1.0m,20 - 35% clay
+4501,GICUMBI,Bukure,>1.0m,>35% Clay
+1201,GASABO,Bumbogo,>1.0m,>35% Clay
+4401,BURERA,Bungwe,0.5 - 1.0m,20 - 35% clay
+4102,RULINDO,Burega,<0.5m,20 - 35% clay
+2501,NYAMAGABE,Buruhukiro,0.5 - 1.0m,20 - 35% clay
+2301,NYARUGURU,Busanze,<0.5m,>35% Clay
+3302,RUBAVU,Busasamana,<0.5m,20 - 35% clay
+2101,NYANZA,Busasamana,>1.0m,>35% Clay
+4201,GAKENKE,Busengo,0.5 - 1.0m,20 - 35% clay
+3701,NYAMASHEKE,Bushekeri,0.5 - 1.0m,20 - 35% clay
+3702,NYAMASHEKE,Bushenge,>1.0m,20 - 35% clay
+4103,RULINDO,Bushoki,0.5 - 1.0m,20 - 35% clay
+4301,MUSANZE,Busogo,<0.5m,20 - 35% clay
+2102,NYANZA,Busoro,>1.0m,>35% Clay
+3602,RUSIZI,Butare,0.5 - 1.0m,20 - 35% clay
+4402,BURERA,Butaro,<0.5m,20 - 35% clay
+4104,RULINDO,Buyoga,>1.0m,>35% Clay
+2601,RUHANGO,Bweramana,>1.0m,>35% Clay
+3603,RUSIZI,Bweyeye,0.5 - 1.0m,20 - 35% clay
+3501,NGORORERO,Bwira,<0.5m,>35% Clay
+3101,KARONGI,Bwishyura,<0.5m,>35% Clay
+4502,GICUMBI,Bwisige,>1.0m,>35% Clay
+2602,RUHANGO,Byimana,0.5 - 1.0m,20 - 35% clay
+4503,GICUMBI,Byumba,>1.0m,>35% Clay
+4202,GAKENKE,Coko,>1.0m,>35% Clay
+2103,NYANZA,Cyabakamyi,>1.0m,>35% Clay
+4203,GAKENKE,Cyabingo,0.5 - 1.0m,20 - 35% clay
+2302,NYARUGURU,Cyahinda,>1.0m,>35% Clay
+4403,BURERA,Cyanika,0.5 - 1.0m,20 - 35% clay
+2502,NYAMAGABE,Cyanika,<0.5m,>35% Clay
+3303,RUBAVU,Cyanzarwe,0.5 - 1.0m,20 - 35% clay
+3703,NYAMASHEKE,Cyato,>1.0m,20 - 35% clay
+4404,BURERA,Cyeru,>1.0m,>35% Clay
+2701,GITARAMA,Cyeza,<0.5m,20 - 35% clay
+4105,RULINDO,Cyinzuzi,<0.5m,20 - 35% clay
+4504,GICUMBI,Cyumba,0.5 - 1.0m,>35% Clay
+4106,RULINDO,Cyungo,<0.5m,>35% Clay
+4302,MUSANZE,Cyuve,0.5 - 1.0m,20 - 35% clay
+5101,RWAMAGANA,Fumbwe,>1.0m,>35% Clay
+4303,MUSANZE,Gacaca,0.5 - 1.0m,20 - 35% clay
+2801,KAMONYI,Gacurabwenge,>1.0m,>35% Clay
+1301,KICUKIRO,Gahanga,<0.5m,20 - 35% clay
+5501,KIREHE,Gahara,<0.5m,>35% Clay
+5102,RWAMAGANA,Gahengeri,>1.0m,>35% Clay
+5401,KAYONZA,Gahini,<0.5m,20 - 35% clay
+4405,BURERA,Gahunga,<0.5m,20 - 35% clay
+4204,GAKENKE,Gakenke,0.5 - 1.0m,20 - 35% clay
+2515,NYAMAGABE,Gasaka,<0.5m,>35% Clay
+5301,GATSIBO,Gasange,>1.0m,>35% Clay
+4304,MUSANZE,Gashaki,0.5 - 1.0m,20 - 35% clay
+5601,NGOMA,Gashanda,<0.5m,>35% Clay
+4205,GAKENKE,Gashenyi,<0.5m,20 - 35% clay
+3604,RUSIZI,Gashonga,>1.0m,>35% Clay
+5701,BUGESERA,Gashora,<0.5m,20 - 35% clay
+4305,MUSANZE,Gataraga,0.5 - 1.0m,20 - 35% clay
+2503,NYAMAGABE,Gatare,<0.5m,>35% Clay
+4406,BURERA,Gatebe,<0.5m,20 - 35% clay
+1302,KICUKIRO,Gatenga,<0.5m,>35% Clay
+4206,GAKENKE,Gatonde,<0.5m,20 - 35% clay
+5502,KIREHE,Gatore,<0.5m,20 - 35% clay
+1202,GASABO,Gatsata,<0.5m,20 - 35% clay
+5302,GATSIBO,Gatsibo,<0.5m,20 - 35% clay
+3502,NGORORERO,Gatumba,<0.5m,20 - 35% clay
+5201,NYAGATARE,Gatunda,0.5 - 1.0m,>35% Clay
+3202,RUTSIRO,Gihango,0.5 - 1.0m,20 - 35% clay
+3605,RUSIZI,Giheke,0.5 - 1.0m,>35% Clay
+3704,NYAMASHEKE,Gihombo,<0.5m,>35% Clay
+3606,RUSIZI,Gihundwe,0.5 - 1.0m,>35% Clay
+1203,GASABO,Gikomero,<0.5m,20 - 35% clay
+1303,KICUKIRO,Gikondo,>1.0m,>35% Clay
+2201,GISAGARA,GIkonko,0.5 - 1.0m,20 - 35% clay
+3607,RUSIZI,Gikundamvura,0.5 - 1.0m,>35% Clay
+3304,RUBAVU,Gisenyi,<0.5m,20 - 35% clay
+2401,HUYE,Gishamvu,0.5 - 1.0m,>35% Clay
+3102,KARONGI,Gishari,<0.5m,20 - 35% clay
+5103,RWAMAGANA,Gishari,<0.5m,20 - 35% clay
+2202,GISAGARA,Gishubi,0.5 - 1.0m,20 - 35% clay
+3103,KARONGI,Gishyita,<0.5m,>35% Clay
+1204,GASABO,Gisozi,<0.5m,20 - 35% clay
+3608,RUSIZI,Gitambi,0.5 - 1.0m,>35% Clay
+1101,NYARUGENGE,Gitega,<0.5m,20 - 35% clay
+3104,KARONGI,Gitesi,0.5 - 1.0m,20 - 35% clay
+4505,GICUMBI,Giti,<0.5m,>35% Clay
+5303,GATSIBO,Gitoki,0.5 - 1.0m,>35% Clay
+4407,BURERA,Gitovu,0.5 - 1.0m,>35% Clay
+3503,NGORORERO,Hindiro,0.5 - 1.0m,>35% Clay
+2402,HUYE,Huye,>1.0m,>35% Clay
+1205,GASABO,Jabana,>1.0m,>35% Clay
+1206,GASABO,Jali,>1.0m,>35% Clay
+4207,GAKENKE,Janja,0.5 - 1.0m,20 - 35% clay
+5602,NGOMA,Jarama,>1.0m,>35% Clay
+3402,NYABIHU,Jenda,0.5 - 1.0m,20 - 35% clay
+3403,NYABIHU,Jomba,0.5 - 1.0m,>35% Clay
+5702,BUGESERA,Juru,>1.0m,>35% Clay
+2702,GITARAMA,Kabacuzi,<0.5m,20 - 35% clay
+2603,RUHANGO,Kabagali,>1.0m,20 - 35% clay
+5402,KAYONZA,Kabare,<0.5m,20 - 35% clay
+5403,KAYONZA,Kabarondo,>1.0m,20 - 35% clay
+5304,GATSIBO,Kabarore,>1.0m,20 - 35% clay
+3404,NYABIHU,Kabatwa,0.5 - 1.0m,20 - 35% clay
+3504,NGORORERO,Kabaya,0.5 - 1.0m,20 - 35% clay
+1207,GASABO,Kacyiru,>1.0m,>35% Clay
+2504,NYAMAGABE,Kaduha,<0.5m,>35% Clay
+3705,NYAMASHEKE,Kagano,<0.5m,20 - 35% clay
+5305,GATSIBO,Kageyo,<0.5m,>35% Clay
+4506,GICUMBI,Kageyo,>1.0m,>35% Clay
+3505,NGORORERO,Kageyo,>1.0m,20 - 35% clay
+4408,BURERA,Kagogo,<0.5m,20 - 35% clay
+5703,BUGESERA,Kamabuye,>1.0m,20 - 35% clay
+2505,NYAMAGABE,Kamegeri,0.5 - 1.0m,>35% Clay
+3609,RUSIZI,Kamembe,>1.0m,>35% Clay
+4208,GAKENKE,Kamubuga,0.5 - 1.0m,>35% Clay
+3305,RUBAVU,Kanama,0.5 - 1.0m,20 - 35% clay
+4507,GICUMBI,Kaniga,<0.5m,>35% Clay
+3706,NYAMASHEKE,Kanjongo,<0.5m,>35% Clay
+1305,KICUKIRO,Kanombe,<0.5m,20 - 35% clay
+2203,GISAGARA,Kansi,>1.0m,>35% Clay
+1102,NYARUGENGE,Kanyinya,<0.5m,20 - 35% clay
+3306,RUBAVU,Kanzenze,<0.5m,20 - 35% clay
+3405,NYABIHU,Karago,<0.5m,20 - 35% clay
+2403,HUYE,Karama,<0.5m,>35% Clay
+2802,KAMONYI,Karama,0.5 - 1.0m,20 - 35% clay
+1304,KICUKIRO,Karama,>1.0m,>35% Clay
+5202,NYAGATARE,Karama,0.5 - 1.0m,>35% Clay
+3707,NYAMASHEKE,Karambi,0.5 - 1.0m,20 - 35% clay
+4209,GAKENKE,Karambo,0.5 - 1.0m,>35% Clay
+5203,NYAGATARE,Karangazi,>1.0m,>35% Clay
+5603,NGOMA,Karembo,>1.0m,>35% Clay
+5104,RWAMAGANA,Karenge,>1.0m,>35% Clay
+3708,NYAMASHEKE,Karengera,>1.0m,>35% Clay
+5204,NYAGATARE,Katabagemu,0.5 - 1.0m,>35% Clay
+3506,NGORORERO,Kavumu,<0.5m,20 - 35% clay
+2803,KAMONYI,Kayenzi,>1.0m,>35% Clay
+2804,KAMONYI,Kayumba,<0.5m,20 - 35% clay
+5604,NGOMA,Kazo,>1.0m,>35% Clay
+2703,GITARAMA,Kibangu,0.5 - 1.0m,20 - 35% clay
+2303,NYARUGURU,Kibeho,>1.0m,20 - 35% clay
+2204,GISAGARA,Kibilizi,>1.0m,>35% Clay
+2506,NYAMAGABE,Kibirizi,<0.5m,20 - 35% clay
+2104,NYANZA,Kibirizi,<0.5m,>35% Clay
+2507,NYAMAGABE,Kibumbwe,<0.5m,>35% Clay
+5605,NGOMA,Kibungo,0.5 - 1.0m,>35% Clay
+1306,KICUKIRO,Kicukiro,<0.5m,20 - 35% clay
+5105,RWAMAGANA,Kigabiro,>1.0m,20 - 35% clay
+1103,NYARUGENGE,Kigali,<0.5m,20 - 35% clay
+1307,KICUKIRO,Kigarama,>1.0m,>35% Clay
+5503,KIREHE,Kigarama,<0.5m,>35% Clay
+2205,GISAGARA,Kigembe,<0.5m,20 - 35% clay
+3203,RUTSIRO,Kigeyo,0.5 - 1.0m,>35% Clay
+5504,KIREHE,Kigina,<0.5m,20 - 35% clay
+2404,HUYE,Kigoma,0.5 - 1.0m,20 - 35% clay
+2105,NYANZA,Kigoma,<0.5m,>35% Clay
+1208,GASABO,Kimihurura,>1.0m,>35% Clay
+1209,GASABO,Kimironko,0.5 - 1.0m,>35% Clay
+1104,NYARUGENGE,Kimisagara,>1.0m,>35% Clay
+4306,MUSANZE,Kimonyi,0.5 - 1.0m,20 - 35% clay
+2405,HUYE,Kinazi,>1.0m,>35% Clay
+2604,RUHANGO,Kinazi,0.5 - 1.0m,20 - 35% clay
+4307,MUSANZE,Kinigi,0.5 - 1.0m,20 - 35% clay
+2605,RUHANGO,Kinihira,<0.5m,20 - 35% clay
+4107,RULINDO,Kinihira,<0.5m,20 - 35% clay
+4409,BURERA,Kinoni,0.5 - 1.0m,20 - 35% clay
+3406,NYABIHU,Kintobo,<0.5m,20 - 35% clay
+4410,BURERA,Kinyababa,>1.0m,>35% Clay
+1210,GASABO,Kinyinya,<0.5m,20 - 35% clay
+5306,GATSIBO,Kiramuruzi,>1.0m,>35% Clay
+5505,KIREHE,Kirehe,<0.5m,20 - 35% clay
+3709,NYAMASHEKE,Kirimbi,<0.5m,>35% Clay
+4108,RULINDO,Kisaro,<0.5m,20 - 35% clay
+2508,NYAMAGABE,Kitabi,0.5 - 1.0m,20 - 35% clay
+2304,NYARUGURU,Kivu,>1.0m,20 - 35% clay
+3204,RUTSIRO,Kivumu,0.5 - 1.0m,>35% Clay
+4210,GAKENKE,Kivuruga,<0.5m,20 - 35% clay
+4411,BURERA,Kivuye,0.5 - 1.0m,20 - 35% clay
+5205,NYAGATARE,Kiyombe,0.5 - 1.0m,>35% Clay
+2704,GITARAMA,Kiyumba,0.5 - 1.0m,20 - 35% clay
+5307,GATSIBO,Kiziguro,>1.0m,20 - 35% clay
+3710,NYAMASHEKE,Macuba,<0.5m,20 - 35% clay
+1105,NYARUGENGE,Mageragere,<0.5m,>35% Clay
+5506,KIREHE,Mahama,>1.0m,>35% Clay
+3711,NYAMASHEKE,Mahembe,0.5 - 1.0m,20 - 35% clay
+2206,GISAGARA,Mamba,<0.5m,>35% Clay
+3205,RUTSIRO,Manihira,0.5 - 1.0m,20 - 35% clay
+4508,GICUMBI,Manyagiro,<0.5m,>35% Clay
+2406,HUYE,Maraba,0.5 - 1.0m,>35% Clay
+5704,BUGESERA,Mareba,0.5 - 1.0m,>35% Clay
+1308,KICUKIRO,Masaka,<0.5m,20 - 35% clay
+4109,RULINDO,Masoro,>1.0m,>35% Clay
+2305,NYARUGURU,Mata,0.5 - 1.0m,>35% Clay
+4211,GAKENKE,Mataba,0.5 - 1.0m,20 - 35% clay
+5206,NYAGATARE,Matimba,0.5 - 1.0m,>35% Clay
+3507,NGORORERO,Matyazo,<0.5m,>35% Clay
+5705,BUGESERA,Mayange,<0.5m,20 - 35% clay
+2407,HUYE,Mbazi,0.5 - 1.0m,>35% Clay
+2509,NYAMAGABE,Mbazi,<0.5m,20 - 35% clay
+4110,RULINDO,Mbogo,<0.5m,20 - 35% clay
+2606,RUHANGO,Mbuye,<0.5m,20 - 35% clay
+5207,NYAGATARE,Mimuli,>1.0m,>35% Clay
+4212,GAKENKE,Minazi,<0.5m,20 - 35% clay
+4509,GICUMBI,Miyove,<0.5m,>35% Clay
+5507,KIREHE,Mpanga,>1.0m,>35% Clay
+3105,KARONGI,Mubuga,<0.5m,>35% Clay
+3307,RUBAVU,Mudende,<0.5m,20 - 35% clay
+2510,NYAMAGABE,Mugano,0.5 - 1.0m,>35% Clay
+2207,GISAGARA,Muganza,<0.5m,>35% Clay
+2306,NYARUGURU,Muganza,0.5 - 1.0m,>35% Clay
+3610,RUSIZI,Muganza,>1.0m,>35% Clay
+5606,NGOMA,Mugesera,0.5 - 1.0m,20 - 35% clay
+2805,KAMONYI,Mugina,<0.5m,20 - 35% clay
+2208,GISAGARA,Mugombwa,>1.0m,>35% Clay
+2705,GITARAMA,Muhanga,0.5 - 1.0m,20 - 35% clay
+5106,RWAMAGANA,Muhazi,<0.5m,20 - 35% clay
+1106,NYARUGENGE,Muhima,<0.5m,>35% Clay
+4213,GAKENKE,Muhondo,>1.0m,>35% Clay
+3509,NGORORERO,Muhororo,<0.5m,20 - 35% clay
+4308,MUSANZE,Muhoza,>1.0m,20 - 35% clay
+3508,NGORORERO,Muhunda,>1.0m,>35% Clay
+5308,GATSIBO,Muhura,>1.0m,>35% Clay
+5208,NYAGATARE,Mukama,<0.5m,20 - 35% clay
+3407,NYABIHU,Mukamira,0.5 - 1.0m,20 - 35% clay
+4510,GICUMBI,Mukarange,0.5 - 1.0m,20 - 35% clay
+5404,KAYONZA,Mukarange,>1.0m,>35% Clay
+2209,GISAGARA,Mukindo,>1.0m,>35% Clay
+2106,NYANZA,Mukingo,<0.5m,20 - 35% clay
+4511,GICUMBI,Muko,0.5 - 1.0m,>35% Clay
+4309,MUSANZE,Muko,0.5 - 1.0m,>35% Clay
+2408,HUYE,Mukura,>1.0m,>35% Clay
+3206,RUTSIRO,Mukura,>1.0m,20 - 35% clay
+2307,NYARUGURU,Munini,>1.0m,>35% Clay
+5107,RWAMAGANA,Munyaga,0.5 - 1.0m,20 - 35% clay
+5108,RWAMAGANA,Munyiginya,>1.0m,>35% Clay
+5405,KAYONZA,Murama,>1.0m,>35% Clay
+5607,NGOMA,Murama,>1.0m,>35% Clay
+5309,GATSIBO,Murambi,<0.5m,20 - 35% clay
+3106,KARONGI,Murambi,>1.0m,>35% Clay
+4111,RULINDO,Murambi,>1.0m,>35% Clay
+3408,NYABIHU,Muringa,0.5 - 1.0m,20 - 35% clay
+3207,RUTSIRO,Murunda,0.5 - 1.0m,>35% Clay
+3107,KARONGI,Murundi,<0.5m,20 - 35% clay
+5406,KAYONZA,Murundi,0.5 - 1.0m,>35% Clay
+3611,RUSIZI,Mururu,>1.0m,>35% Clay
+2806,KAMONYI,Musambira,<0.5m,>35% Clay
+2511,NYAMAGABE,Musange,>1.0m,>35% Clay
+4310,MUSANZE,Musanze,<0.5m,20 - 35% clay
+3208,RUTSIRO,Musasa,0.5 - 1.0m,>35% Clay
+5508,KIREHE,Musaza,>1.0m,>35% Clay
+2512,NYAMAGABE,Musebeya,<0.5m,20 - 35% clay
+5706,BUGESERA,Musenyi,0.5 - 1.0m,20 - 35% clay
+2210,GISAGARA,Musha,<0.5m,>35% Clay
+5109,RWAMAGANA,Musha,>1.0m,>35% Clay
+5209,NYAGATARE,Musheli,>1.0m,>35% Clay
+5509,KIREHE,Mushikiri,>1.0m,20 - 35% clay
+2706,GITARAMA,Mushishiro,>1.0m,20 - 35% clay
+3209,RUTSIRO,Mushonyi,0.5 - 1.0m,>35% Clay
+3210,RUTSIRO,Mushubati,0.5 - 1.0m,20 - 35% clay
+2513,NYAMAGABE,Mushubi,0.5 - 1.0m,20 - 35% clay
+5608,NGOMA,Mutenderi,<0.5m,20 - 35% clay
+4512,GICUMBI,Mutete,<0.5m,20 - 35% clay
+3108,KARONGI,Mutuntu,0.5 - 1.0m,>35% Clay
+2107,NYANZA,Muyira,>1.0m,>35% Clay
+4214,GAKENKE,Muyongwe,>1.0m,>35% Clay
+5110,RWAMAGANA,Muyumbu,>1.0m,>35% Clay
+4215,GAKENKE,Muzo,0.5 - 1.0m,20 - 35% clay
+2607,RUHANGO,Mwendo,>1.0m,>35% Clay
+5407,KAYONZA,Mwiri,>1.0m,20 - 35% clay
+5707,BUGESERA,Mwogo,<0.5m,20 - 35% clay
+5111,RWAMAGANA,Mwulire,>1.0m,>35% Clay
+5510,KIREHE,Nasho,>1.0m,20 - 35% clay
+3510,NGORORERO,Ndaro,0.5 - 1.0m,>35% Clay
+5408,KAYONZA,Ndego,<0.5m,>35% Clay
+1211,GASABO,Ndera,>1.0m,>35% Clay
+2211,GISAGARA,Ndora,0.5 - 1.0m,20 - 35% clay
+1212,GASABO,Nduba,>1.0m,>35% Clay
+4412,BURERA,Nemba,<0.5m,>35% Clay
+4216,GAKENKE,Nemba,>1.0m,>35% Clay
+2807,KAMONYI,Ngamba,<0.5m,20 - 35% clay
+5310,GATSIBO,Ngarama,<0.5m,20 - 35% clay
+2308,NYARUGURU,Ngera,>1.0m,>35% Clay
+5708,BUGESERA,Ngeruka,0.5 - 1.0m,>35% Clay
+2409,HUYE,Ngoma,>1.0m,>35% Clay
+2309,NYARUGURU,Ngoma,>1.0m,20 - 35% clay
+4112,RULINDO,Ngoma,>1.0m,>35% Clay
+3511,NGORORERO,Ngororero,0.5 - 1.0m,20 - 35% clay
+1309,KICUKIRO,Niboye,0.5 - 1.0m,>35% Clay
+3612,RUSIZI,Nkanka,>1.0m,>35% Clay
+2514,NYAMAGABE,Nkomane,0.5 - 1.0m,20 - 35% clay
+3613,RUSIZI,Nkombo,0.5 - 1.0m,>35% Clay
+4311,MUSANZE,Nkotsi,0.5 - 1.0m,20 - 35% clay
+3614,RUSIZI,Nkungu,0.5 - 1.0m,>35% Clay
+4113,RULINDO,Ntarabana,<0.5m,20 - 35% clay
+5709,BUGESERA,Ntarama,>1.0m,>35% Clay
+2608,RUHANGO,Ntongwe,<0.5m,20 - 35% clay
+2108,NYANZA,Ntyazo,<0.5m,20 - 35% clay
+2310,NYARUGURU,Nyabimata,0.5 - 1.0m,20 - 35% clay
+2707,GITARAMA,Nyabinoni,<0.5m,20 - 35% clay
+3211,RUTSIRO,Nyabirasi,0.5 - 1.0m,20 - 35% clay
+3712,NYAMASHEKE,Nyabitekeri,>1.0m,>35% Clay
+5210,NYAGATARE,Nyagatare,0.5 - 1.0m,>35% Clay
+5311,GATSIBO,Nyagihanga,<0.5m,>35% Clay
+2109,NYANZA,Nyagisozi,>1.0m,>35% Clay
+2311,NYARUGURU,Nyagisozi,0.5 - 1.0m,>35% Clay
+1107,NYARUGENGE,Nyakabanda,<0.5m,20 - 35% clay
+3615,RUSIZI,Nyakabuye,0.5 - 1.0m,>35% Clay
+3616,RUSIZI,Nyakarenzo,>1.0m,20 - 35% clay
+5112,RWAMAGANA,Nyakariro,>1.0m,>35% Clay
+3308,RUBAVU,Nyakiliba,0.5 - 1.0m,20 - 35% clay
+2708,GITARAMA,Nyamabuye,0.5 - 1.0m,20 - 35% clay
+5710,BUGESERA,Nyamata,>1.0m,>35% Clay
+5409,KAYONZA,Nyamirama,<0.5m,20 - 35% clay
+1108,NYARUGENGE,Nyamirambo,<0.5m,20 - 35% clay
+4513,GICUMBI,Nyamiyaga,>1.0m,>35% Clay
+2808,KAMONYI,Nyamiyaga,<0.5m,20 - 35% clay
+5511,KIREHE,Nyamugali,>1.0m,>35% Clay
+3309,RUBAVU,Nyamyumba,0.5 - 1.0m,>35% Clay
+4312,MUSANZE,Nyange,<0.5m,20 - 35% clay
+3512,NGORORERO,Nyange,0.5 - 1.0m,20 - 35% clay
+4514,GICUMBI,Nyankenke,<0.5m,20 - 35% clay
+2212,GISAGARA,Nyanza,<0.5m,20 - 35% clay
+2809,KAMONYI,Nyarubaka,>1.0m,>35% Clay
+5512,KIREHE,Nyarubuye,0.5 - 1.0m,>35% Clay
+5711,BUGESERA,Nyarugenge,>1.0m,>35% Clay
+5711,NYARUGENGE,Nyarugenge,>1.0m,>35% Clay
+1310,KICUKIRO,Nyarugunga,<0.5m,20 - 35% clay
+2709,GITARAMA,Nyarusange,<0.5m,20 - 35% clay
+3310,RUBAVU,Nyundo,0.5 - 1.0m,>35% Clay
+3617,RUSIZI,Nzahaha,>1.0m,>35% Clay
+5113,RWAMAGANA,Nzige,>1.0m,>35% Clay
+3409,NYABIHU,Rambura,0.5 - 1.0m,>35% Clay
+3713,NYAMASHEKE,Rangiro,<0.5m,20 - 35% clay
+1213,GASABO,Remera,>1.0m,>35% Clay
+5312,GATSIBO,Remera,0.5 - 1.0m,>35% Clay
+4313,MUSANZE,Remera,0.5 - 1.0m,>35% Clay
+5609,NGOMA,Remera,<0.5m,>35% Clay
+5712,BUGESERA,Rilima,0.5 - 1.0m,20 - 35% clay
+2710,GITARAMA,Rongi,<0.5m,20 - 35% clay
+3311,RUBAVU,Rubavu,<0.5m,20 - 35% clay
+4515,GICUMBI,Rubaya,>1.0m,>35% Clay
+3109,KARONGI,Rubengera,<0.5m,>35% Clay
+5114,RWAMAGANA,Rubona,>1.0m,>35% Clay
+3110,KARONGI,Rugabano,0.5 - 1.0m,>35% Clay
+2810,KAMONYI,Rugalika,0.5 - 1.0m,>35% Clay
+3111,KARONGI,Ruganda,<0.5m,>35% Clay
+4413,BURERA,Rugarama,<0.5m,>35% Clay
+5313,GATSIBO,Rugarama,>1.0m,20 - 35% clay
+2711,GITARAMA,Rugendabari,0.5 - 1.0m,20 - 35% clay
+4414,BURERA,Rugengabari,>1.0m,>35% Clay
+3410,NYABIHU,Rugera,0.5 - 1.0m,>35% Clay
+3312,RUBAVU,Rugerero,0.5 - 1.0m,>35% Clay
+2609,RUHANGO,Ruhango,0.5 - 1.0m,>35% Clay
+3212,RUTSIRO,Ruhango,0.5 - 1.0m,20 - 35% clay
+3714,NYAMASHEKE,Ruharambuga,>1.0m,>35% Clay
+2410,HUYE,Ruhashya,>1.0m,>35% Clay
+2312,NYARUGURU,Ruheru,0.5 - 1.0m,>35% Clay
+5713,BUGESERA,Ruhuha,<0.5m,20 - 35% clay
+4415,BURERA,Ruhunde,<0.5m,20 - 35% clay
+5410,KAYONZA,Rukara,>1.0m,>35% Clay
+5610,NGOMA,Rukira,0.5 - 1.0m,20 - 35% clay
+2811,KAMONYI,Rukoma,0.5 - 1.0m,>35% Clay
+4516,GICUMBI,Rukomo,>1.0m,>35% Clay
+5211,NYAGATARE,Rukomo,>1.0m,>35% Clay
+4114,RULINDO,Rukozo,<0.5m,20 - 35% clay
+5611,NGOMA,Rukumberi,>1.0m,>35% Clay
+4217,GAKENKE,Ruli,<0.5m,>35% Clay
+2812,KAMONYI,Runda,<0.5m,20 - 35% clay
+2313,NYARUGURU,Ruramba,0.5 - 1.0m,>35% Clay
+5411,KAYONZA,Ruramira,>1.0m,>35% Clay
+3411,NYABIHU,Rurembo,>1.0m,>35% Clay
+5612,NGOMA,Rurenge,<0.5m,20 - 35% clay
+4416,BURERA,Rusarabuge,<0.5m,>35% Clay
+4218,GAKENKE,Rusasa,<0.5m,20 - 35% clay
+2411,HUYE,Rusatira,>1.0m,>35% Clay
+3213,RUTSIRO,Rusebeya,0.5 - 1.0m,20 - 35% clay
+2314,NYARUGURU,Rusenge,0.5 - 1.0m,>35% Clay
+4517,GICUMBI,Rushaki,0.5 - 1.0m,20 - 35% clay
+4219,GAKENKE,Rushashi,>1.0m,>35% Clay
+4115,RULINDO,Rusiga,>1.0m,20 - 35% clay
+1214,GASABO,Rusororo,>1.0m,>35% Clay
+4518,GICUMBI,Rutare,<0.5m,20 - 35% clay
+1215,GASABO,Rutunga,>1.0m,>35% Clay
+4519,GICUMBI,Ruvune,>1.0m,>35% Clay
+2110,NYANZA,Rwabicuma,0.5 - 1.0m,>35% Clay
+4520,GICUMBI,Rwamiko,>1.0m,>35% Clay
+2412,HUYE,Rwaniro,<0.5m,>35% Clay
+3112,KARONGI,Rwankuba,0.5 - 1.0m,20 - 35% clay
+4314,MUSANZE,Rwaza,0.5 - 1.0m,20 - 35% clay
+5212,NYAGATARE,Rwempasha,0.5 - 1.0m,>35% Clay
+4417,BURERA,Rwerere,>1.0m,>35% Clay
+5714,BUGESERA,Rweru,>1.0m,>35% Clay
+1110,NYARUGENGE,Rwezamenyo,>1.0m,>35% Clay
+5314,GATSIBO,Rwimbogo,<0.5m,>35% Clay
+3618,RUSIZI,Rwimbogo,>1.0m,>35% Clay
+5213,NYAGATARE,Rwimiyaga,>1.0m,20 - 35% clay
+5412,KAYONZA,Rwinkwavu,0.5 - 1.0m,>35% Clay
+5613,NGOMA,Sake,>1.0m,20 - 35% clay
+2213,GISAGARA,Save,0.5 - 1.0m,20 - 35% clay
+4521,GICUMBI,Shangasha,>1.0m,>35% Clay
+3715,NYAMASHEKE,Shangi,>1.0m,>35% Clay
+4315,MUSANZE,Shingiro,0.5 - 1.0m,20 - 35% clay
+5715,BUGESERA,Shyara,0.5 - 1.0m,20 - 35% clay
+3412,NYABIHU,Shyira,<0.5m,>35% Clay
+2712,GITARAMA,Shyogwe,<0.5m,20 - 35% clay
+4116,RULINDO,Shyorongi,0.5 - 1.0m,20 - 35% clay
+2413,HUYE,Simbi,>1.0m,>35% Clay
+3513,NGORORERO,Sovu,0.5 - 1.0m,20 - 35% clay
+5214,NYAGATARE,Tabagwe,0.5 - 1.0m,>35% Clay
+2516,NYAMAGABE,Tare,<0.5m,20 - 35% clay
+2414,HUYE,Tumba,>1.0m,>35% Clay
+4117,RULINDO,Tumba,0.5 - 1.0m,>35% Clay
+3113,KARONGI,Twumba,0.5 - 1.0m,>35% Clay
+2517,NYAMAGABE,Uwinkingi,<0.5m,20 - 35% clay
+5614,NGOMA,Zaza,>1.0m,>35% Clay
